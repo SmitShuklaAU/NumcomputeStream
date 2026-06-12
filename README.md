@@ -1,4 +1,4 @@
-```markdown
+
 # NumCompute Stream: Real-Time Machine Learning Framework
 
 **NumCompute Stream** is a bespoke, pure-NumPy online machine learning framework developed for real-time data streams. Built from scratch without relying on heavy external ML libraries (like `scikit-learn` or `pandas`), this framework focuses on algorithmic efficiency, memory-bounded incremental learning, and numerical stability.
